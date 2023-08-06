@@ -37,9 +37,9 @@ Install all the dependencies by running the command npm -i
 👤 **Author**
 
 
-- GitHub: [@abe1able](https://github.com/Emmanuel130)
-- Twitter: [@AbelSeifu15](https://twitter.com/Young_Manixo)
-- Linkedin: [@abelseifu](https://www.linkedin.com/in/AmanuelDetebo)
+- GitHub: [@Emmanuel130](https://github.com/Emmanuel130)
+- Twitter: [@Emmanuel130](https://twitter.com/Young_Manixo)
+- Linkedin: [@Emmanuel130](https://www.linkedin.com/in/AmanuelDetebo)
 
 
 
