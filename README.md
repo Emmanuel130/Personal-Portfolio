@@ -29,7 +29,7 @@ Install all the dependencies by running the command npm -i
 
 ## Live Demo 
 
-[Demo](https://abe1able.github.io/Personal-Portfolio/)
+[Demo](https://Emmanuel130.github.io/Personal-Portfolio/)
 
 ## Authors
 
@@ -37,23 +37,16 @@ Install all the dependencies by running the command npm -i
 👤 **Author**
 
 
-- GitHub: [@abe1able](https://github.com/abe1able)
-- Twitter: [@AbelSeifu15](https://twitter.com/AbelSeifu15)
-- Linkedin: [@abelseifu](https://www.linkedin.com/in/abel-seifu-184543233/)
-
-
-## Contributor
-
-- GitHub: [@Irirwanirira](https://github.com/Irirwanirira)
-- Twitter: [@Iri_joseph](https://twitter.com/Irirwanirira)
-- LinkedIn: [Joseph IRIRWANIRIRA](https://linkedin.com/in/joseph-irirwanirira-74666623a/)
+- GitHub: [@abe1able](https://github.com/Emmanuel130)
+- Twitter: [@AbelSeifu15](https://twitter.com/Young_Manixo)
+- Linkedin: [@abelseifu](https://www.linkedin.com/in/AmanuelDetebo)
 
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/Abe1able/Personal-Portfolio/issues)
+Feel free to check the [issues page](https://github.com/Emmanuel130/Personal-Portfolio/issues)
 
 
 ## Show your support
